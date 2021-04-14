@@ -1,22 +1,21 @@
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="https://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+title:               The Transitive Experience of Plant Ownership
+tagline:             'If an Idiot thinks in a forest and their's no one there to hear him, is he still Stupid?'
+description:         'The Personal Blog of one Bertrand Logan, an idiot stumbling through life.'
+url:                 https://blog.bertrandlogan.com
 baseurl:             ''
-paginate:            5
+paginate:            15
 permalink:           pretty
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Bertrand Logan
+  url:               
 
 # Gems
 plugins:
   - jekyll-paginate
 
 # Custom vars
-version:             1.1.0
-google_analytics_id: #UA-XXXX-Y
+#version:             1.1.0
+#google_analytics_id: #UA-XXXX-Y
