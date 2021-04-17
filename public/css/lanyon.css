@@ -528,6 +528,7 @@ a.pagination-item:hover {
 }
 .theme-base-0f .container a,
 .theme-base-0f .sidebar-toggle,
+.theme-base-0f .page-title,
 .theme-base-0f .related-posts li a:hover {
   color: #ac57b8;
 }
